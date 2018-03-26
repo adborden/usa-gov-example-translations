@@ -14,7 +14,7 @@ msgstr ""
 
 #: /home/gsa/downloads/dokuwiki.txt:1
 msgid "DokuWiki"
-msgstr ""
+msgstr "DokuWiki es"
 
 #: /home/gsa/downloads/dokuwiki.txt:3
 msgid "~~NOTOC~~"
