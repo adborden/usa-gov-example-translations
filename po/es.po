@@ -93,7 +93,7 @@ msgstr ""
 
 #: https://platform-api.usa.gov:443/api/v1/usagov/narratives/212689.json#title
 msgid "Request a Replacement Marriage Certificate "
-msgstr ""
+msgstr "Solicitar un certificado de matrimonio de reemplazo"
 
 #: https://platform-api.usa.gov:443/api/v1/usagov/narratives/212689.json#summary
 msgid "Learn how to get a replacement marriage certificate, "
