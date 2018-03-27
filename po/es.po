@@ -49,7 +49,7 @@ msgstr ""
 
 #: https://platform-api.usa.gov:443/api/v1/usagov/narratives/37257.json#title
 msgid "Child Support Enforcement"
-msgstr ""
+msgstr "Ejecución de manutención infantil"
 
 #: https://platform-api.usa.gov:443/api/v1/usagov/narratives/37257.json#summary
 msgid "Information on where to get help with child support enforcement. "
